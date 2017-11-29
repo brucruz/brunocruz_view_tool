@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+``ruby
+BrunoCruzViewTool::Renderer.copyright "Bruno Cruz", "Todos os direitos reservados"
+``
 
 ## Development
 
